@@ -1,7 +1,9 @@
 # Chetan_Bisariya_A1
 In this assignment, I have used an AJAX get method to retrieve list of content and display them into a list as shown:
 Get Method URL :  https://jsonplaceholder.typicode.com/photos
+
 Ex: Response:
+
 {
     "albumId": 1,
     "id": 1,
